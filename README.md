@@ -16,6 +16,7 @@ A curated collection of high-quality resources to help you learn and master the 
 
 ## Articles
 - **[Demystifying Alignment and Memory Layout in Rust](https://garden.christophertee.dev/blogs/Memory-Alignment-and-Layout/Part-1)**
+- **[Traits and Generics in Rust](https://blog.hofungkoeng.com/post/buildingblock/rust/10_traits_generics/)**
 
 ## Talks
 
