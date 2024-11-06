@@ -21,6 +21,7 @@ A curated collection of high-quality resources to help you learn and master the 
 ## Talks
 
 ## YouTube Videos
+- **[Dynamic vs Static Dispatch in Rust](https://www.youtube.com/watch?v=tM2r9HD4ivQ)**
 
 ## Books
 
