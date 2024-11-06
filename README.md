@@ -8,7 +8,7 @@ A curated collection of high-quality resources to help you learn and master the 
   - [Table of Contents](#table-of-contents)
   - [Articles](#articles)
   - [Talks](#talks)
-  - [YouTube Videos](#youtube-videos)
+  - [Videos](#videos)
   - [Books](#books)
   - [Contributing](#contributing)
 
@@ -20,7 +20,7 @@ A curated collection of high-quality resources to help you learn and master the 
 
 ## Talks
 
-## YouTube Videos
+## Videos
 - **[Dynamic vs Static Dispatch in Rust](https://www.youtube.com/watch?v=tM2r9HD4ivQ)**
 
 ## Books
